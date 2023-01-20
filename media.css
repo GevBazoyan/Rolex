@@ -1,0 +1,120 @@
+@media screen and (max-width: 700px) {
+    .section_1_head_left_txt{
+        display: none;
+    }
+
+    .section_1_head_right_btn1_txt{
+        display: none;
+    }
+
+    .section_1_head_right_btn2_txt{
+        display: none;
+    }
+
+    .section_1_head_right_btn1{
+        width: auto;
+    }
+    
+    .section_1_head_right_btn2{
+        margin-left: 15px;
+    }
+    
+    .section_1_head_left_burger_line1,.section_1_head_left_burger_line2{
+        width: 18px;
+    }
+
+    .section_1_head_right_btn1_icon, .section_1_head_right_btn2_icon{
+        font-size: 12px;
+    }
+
+    .section_2_ins{
+        padding-left: 0;
+    }
+
+    .section_2_ins > h2{
+        font-size: 30px;
+    }
+
+    .section_1_select_click{
+        height: 100vh;
+    }
+    
+    .section_1_scrollbar{
+        width: 80vw;
+    }
+
+    .section_1_scrollbar_link1 > ul{
+        margin-left: 0;
+    }
+
+    .section_1_select_click_ins{
+        width: 100%;
+    }
+
+    .section_1_select_click_ins_bot_txt1{
+        width: 80vw;
+    }
+
+    .section_1_scrollbar{
+        transition: all .6s ease;
+    }
+    
+    .section_1_selectYours_click{
+        width: 80vw;
+    }
+
+    footer{
+        height: auto;
+    }
+
+    .foot_mid{
+        width: 90%;
+        height: auto;
+        flex-direction: column;
+        padding-bottom: 20px;
+    }
+
+    .foot_mid_mas3_part1{
+        margin-top: 160px;
+    }
+
+    .foot_mid_maser{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .section_1_head_right{
+        padding: 0px 5vw 0px 0px;
+    }
+
+    .section_2_btns{
+        height: auto;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .section_3{
+        padding-left: 0;
+    }
+
+    .section_3_menu_ul{
+        width: 100%;
+    }
+
+    .section_3_ins{
+        padding-left: 10px;
+    }
+
+    .section_1_scrollbar_link1 > ul{
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .section_1_select_click_ins_top_left > svg{
+        height: 60px;
+        margin-left: 45vw;
+    }
+}
